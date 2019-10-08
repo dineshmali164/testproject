@@ -5,7 +5,7 @@
 		<!-- Basic -->
 		<meta charset="UTF-8">
 
-		<title>Dashboard | Okler Themes | Porto-Admin</title>
+		<title>DASHBOARD Jay Dashboard | Okler Themes | Porto-Admin</title>
 		<meta charset="utf-8">
 		<meta name="csrf-token" content="{{ csrf_token() }}">
 		<meta name="keywords" content="HTML5 Admin Template" />
